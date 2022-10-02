@@ -9,7 +9,7 @@ Welcome to my profileðŸ˜Š , I hope the studies I present will be helpful to youð
 ![kaledhoshme](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kaledhoshme)
 
 
-[![kaled hoshme's github stats](https://github-readme-stats.vercel.app/api?username=kaledhoshme123)](https://github.com/anuraghazra/github-readme-stats)
+[![kaled hoshme's github stats](https://github-readme-stats.vercel.app/api?username=kaledhoshme123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![notebook_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaledhoshme/notebook/light)  
 
 <!--
