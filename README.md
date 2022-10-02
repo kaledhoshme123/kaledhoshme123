@@ -4,7 +4,9 @@ My name is Khaled, I graduated from Al-Baath University, Department of Software 
 
 Welcome to my profile😊 , I hope the studies I present will be helpful to you💪 .
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy0902ysh@gmail.com)](mailto:kaledhoshme123@gmail.com) 
+![githubbadge](https://img.shields.io/github/followers/kaledhoshme123?style=social)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy0902ysh@gmail.com)](mailto:kaledhoshme123@gmail.com)
+<a href="https://www.facebook.com/kaled.hoshme/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/kaledhoshme123)
 ![kaledhoshme](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kaledhoshme)
 
