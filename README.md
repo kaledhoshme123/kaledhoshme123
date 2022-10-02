@@ -1,5 +1,9 @@
 ### Hi there 👋
+<p>
+My name is Khaled, I graduated from Al-Baath University, Department of Software Engineering and Information Systems, I love working in the field of computer vision and deep learning, and I am constantly looking for what is new in this field, I prefer to focus on the medical field in terms of computer vision.
 
+Welcome to my profile😊 , I hope the studies I present will be helpful to you💪 .
+</p>
 <!--
 **kaledhoshme123/kaledhoshme123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
