@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy0902ysh@gmail.com)](mailto:kaledhoshme123@gmail.com) 
 [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/kaledhoshme123)
-![kaledhoshme](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kaledhoshme123)
+![kaledhoshme123](https://road-to-kaggle-grandmaster.vercel.app/api/simple/kaledhoshme123)
 
 
 [![kaled hoshme's github stats](https://github-readme-stats.vercel.app/api?username=kaledhoshme123)](https://github.com/anuraghazra/github-readme-stats)
-![notebook_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaledhoshme123/notebook/light)    
+![notebook_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kaledhoshme/notebook/light)    
