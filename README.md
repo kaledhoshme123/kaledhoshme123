@@ -3,6 +3,9 @@
 My name is Khaled, I graduated from Al-Baath University, Department of Software Engineering and Information Systems, I love working in the field of computer vision and deep learning, and I am constantly looking for what is new in this field, I prefer to focus on the medical field in terms of computer vision.
 
 In addition to the interest in the field of analysis and detection of movement and early detection of future movement.
+### Certifications:
+- Bachelor's degree in Software Engineering and Information Systems from Al-Baath University - Syria.
+- Probabilistic Deep Learning with TensorFlow 2 Course From Imperial College London: <a href='https://www.coursera.org/account/accomplishments/verify/GT7MZ6MRZ7BF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course'> Certificate link</>
 
 ![githubbadge](https://img.shields.io/github/followers/kaledhoshme123?style=social)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy0902ysh@gmail.com)](mailto:kaledhoshme123@gmail.com)
