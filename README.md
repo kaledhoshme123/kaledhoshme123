@@ -9,6 +9,7 @@
 - Probabilistic Deep Learning with TensorFlow 2 Course From Imperial College London: <a href='https://www.coursera.org/account/accomplishments/verify/GT7MZ6MRZ7BF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course'> Certificate link</a>
 - AI for Medical Diagnosis by DeepLearning.AI <a href = 'https://www.coursera.org/account/accomplishments/verify/DCD28YFTKYJY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course'> Certificate link</a>
 - AI for Medical Prognosis by DeepLearning.AI <a href = 'https://coursera.org/share/c08e3353fae5d69487125c576b9707eb'> Certificate link</a>
+- Advanced Computer Vision with TensorFlow by DeepLearning.AI <a href = 'https://coursera.org/share/fc50f0746f4bfbecba1d6b3f3c1fa904'> Certificate link</a>
 
 ![githubbadge](https://img.shields.io/github/followers/kaledhoshme123?style=social)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy0902ysh@gmail.com)](mailto:kaledhoshme123@gmail.com)
