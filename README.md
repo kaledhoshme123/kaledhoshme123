@@ -17,7 +17,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy0902ysh@gmail.com)](mailto:kaledhoshme123@gmail.com)
 <a href="https://www.facebook.com/kaled.hoshme/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/kaledhoshme123)
-<img src="https://komarev.com/ghpvc/?username=kaledhoshme123" alt="kaledhoshme" />
+
 
 
 [![kaled hoshme's github stats](https://github-readme-stats.vercel.app/api?username=kaledhoshme123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
