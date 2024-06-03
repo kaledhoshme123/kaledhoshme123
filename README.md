@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- My name is Khaled. I graduated from Al-Baath University, Department of Computer Science. I have a passion for working in the field of computer vision and deep learning. I am interested in the field of image analysis using artificial intelligence. I focus on detecting diseases and cancerous tumors from CT scans, X-rays, MRI images and ultrasound. In addition to analyzing and discovering areas of tumor areas and determining the extent of tumor spread.
-- I also focus on neurogenerative models in the ability to extract basic features from medical images and generate new images with specific conditions and specifications that help doctors make more accurate decisions.
-- Also interested in the field of Generative Arts.
-- I work to increase my experience by reading many scientific books and studying two research papers every week in the field of computer vision, especially generative models.
+- My name is Khaled. I graduated from Al-Baath University, Department of Computer Science. I have a passion for working in the field of computer vision and deep learning. I am interested in the field of image analysis using artificial intelligence. I focus on neural generative models in the ability to extract basic features from images and create new images with certain conditions and specifications.
+- also interested in the field of generative arts (generating facial images with specific specifications, generating 3D images).
+- I am working to increase my experience by reading many scientific books and studying two research papers every week in the field of computer vision, especially generative models.
 - In addition to the interest in the field of analysis and detection of movement and early detection of future movement.
 ### Certifications:
 - Bachelor's degree in Computer Science from Al-Baath University - Syria.
