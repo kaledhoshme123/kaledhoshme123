@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Khaled. I graduated from Al-Baath University, Department of Computer Science. I have a passion for working in the field of computer vision and deep learning. I am interested in the field of image analysis using artificial intelligence. I focus on neural generative models in the ability to extract basic features from images and create new images with certain conditions and specifications.
+- My name is Khaled. I graduated from Homs University, Department of Computer Science. I have a passion for working in the field of computer vision and deep learning. I am interested in the field of image analysis using artificial intelligence. I focus on neural generative models in the ability to extract basic features from images and create new images with certain conditions and specifications.
 - also interested in the field of generative arts (generating facial images with specific specifications, generating 3D images).
 - I am working to increase my experience by reading many scientific books and studying two research papers every week in the field of computer vision, especially generative models.
 - In addition to the interest in the field of analysis and detection of movement and early detection of future movement.
