@@ -1,10 +1,22 @@
 ### Hi there 👋
 
-- My name is Khaled. I graduated from Homs University, Department of Computer Science. I have a passion for working in the field of computer vision and deep learning. I am interested in the field of image analysis using artificial intelligence. I focus on neural generative models in the ability to extract basic features from images and create new images with certain conditions and specifications.
-- also interested in the field of generative arts (generating facial images with specific specifications, generating 3D images).
-- I am working to increase my experience by reading many scientific books and studying two research papers every week in the field of computer vision, especially generative models.
-- In addition to the interest in the field of analysis and detection of movement and early detection of future movement.
+I am Khaled, a distinguished graduate with a Bachelor’s degree in Computer Science from Homs University, where I excelled academically. I possess a profound passion and advanced expertise in the field of computer vision and deep learning, with a particular focus on the development and application of neural generative models. My research interests center on advanced image analysis using state-of-the-art artificial intelligence techniques, emphasizing the extraction of fundamental features from images and the generation of new images adhering to predefined conditions and specifications. Additionally, I have specialized expertise in the processing and analysis of medical images, contributing to enhanced diagnostic accuracy and the development of innovative healthcare applications.
 
+I am deeply invested in the domain of generative arts, including the creation of facial images with precise specifications and the generation of three-dimensional imagery using cutting-edge technologies. To continuously advance my knowledge and refine my skills, I engage in rigorous academic pursuits, reviewing and analyzing two research papers weekly in the field of computer vision, with a particular emphasis on generative models and their applications.
+
+Furthermore, my work extends to the analysis and detection of motion, with a specific focus on early prediction of future movements, paving the way for groundbreaking applications in advanced computer vision. 
+
+
+
+
+
+## Courses and certificates
+- Bachelor of Computer Science, Homs University – (2013-2019)
+- <a href="https://www.coursera.org/account/accomplishments/verify/GT7MZ6MRZ7BF?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course">Probabilistic Deep Learning with TensorFlow 2</a>  – online- Coursera Platform (2023).
+- <a href="https://www.coursera.org/account/accomplishments/verify/DCD28YFTKYJY?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course">AI for Medical Diagnosis by DeepLearning.AI </a> – online- Coursera Platform (2023).
+- <a href="https://coursera.org/share/c08e3353fae5d69487125c576b9707eb">AI for Medical Prognosis by DeepLearning.AI </a>– online- Coursera Platform (2023).
+- <a href="https://coursera.org/share/20367d36e3a3d0f70e3c6c3845024ee9">Advanced Deep Learning Methods for Healthcare by University of Illinois</a> – online- Coursera Platform (2023).
+- <a href="https://coursera.org/share/fc50f0746f4bfbecba1d6b3f3c1fa904">Advanced Computer Vision with TensorFlow by DeepLearning.AI</a>– online- Coursera Platform (2023).
 
 ![githubbadge](https://img.shields.io/github/followers/kaledhoshme123?style=social)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy0902ysh@gmail.com)](mailto:kaledhoshme123@gmail.com)
