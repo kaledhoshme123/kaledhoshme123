@@ -18,6 +18,10 @@ Furthermore, my work extends to the analysis and detection of motion, with a spe
 - <a href="https://coursera.org/share/20367d36e3a3d0f70e3c6c3845024ee9">Advanced Deep Learning Methods for Healthcare by University of Illinois</a> – online- Coursera Platform (2023).
 - <a href="https://coursera.org/share/fc50f0746f4bfbecba1d6b3f3c1fa904">Advanced Computer Vision with TensorFlow by DeepLearning.AI</a>– online- Coursera Platform (2023).
 
+## Publications:
+- <a href = "https://ieeexplore.ieee.org/document/10968915">A Comparative Study of Deep Learning Models for MRI to CT Image Synthesis</a> Date: 24 April 2025 , Publisher: IEEE
+- <a href = "https://deepai.org/publication/early-detection-of-collective-or-individual-theft-attempts-using-long-term-recurrent-convolutional-networks" >Early Detection of Collective or Individual Theft Attempts Using Long-term Recurrent Convolutional Networks</a> Date: 30 July 2022, Pulisher: deepai.org
+
 ![githubbadge](https://img.shields.io/github/followers/kaledhoshme123?style=social)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kdy0902ysh@gmail.com)](mailto:kaledhoshme123@gmail.com)
 <a href="https://www.facebook.com/kaled.hoshme/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
